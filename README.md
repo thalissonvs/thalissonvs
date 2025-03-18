@@ -4,7 +4,7 @@
 # Olá, me chamo Thalison! 👋
 ## Desenvolvedor Python & Engenheiro de Software
 
-- ✨ **Criador e mantenedor da [PyDoll](https://github.com/thalissonvs/pydoll)** - biblioteca open-source para automação de navegadores de forma realística (quase 400 ⭐)
+- ✨ **Criador e mantenedor da [PyDoll](https://github.com/thalissonvs/pydoll)** - biblioteca open-source para automação de navegadores de forma realística (2.5k+ ⭐)
 - 🔍 Especialista em WebScraping e automação, focado em aumentar assertividade e otimização de recursos
 - 🚀 Desenvolvedor back-end com sólida experiência em FastAPI, Django, DRF e Django Ninja
 - 🧠 Apaixonado por arquitetura de sistemas e workflows CI/CD eficientes
