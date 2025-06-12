@@ -4,12 +4,12 @@
 # Olá, me chamo Thalison! 👋
 ## Desenvolvedor Python & Engenheiro de Software
 
-- ✨ **Criador e mantenedor da [PyDoll](https://github.com/thalissonvs/pydoll)** - biblioteca open-source para automação de navegadores de forma realística (2.5k+ ⭐)
-- 🔍 Especialista em WebScraping e automação, focado em aumentar assertividade e otimização de recursos
-- 🚀 Desenvolvedor back-end com sólida experiência em FastAPI, Django, DRF e Django Ninja
-- 🧠 Apaixonado por arquitetura de sistemas e workflows CI/CD eficientes
+- **Criador e mantenedor da [PyDoll](https://github.com/thalissonvs/pydoll)** - biblioteca open-source para automação de navegadores de forma realística (4k+ ⭐)
+- Especialista em WebScraping e automação, focado em aumentar assertividade e otimização de recursos
+- Desenvolvedor back-end com sólida experiência em FastAPI, Django, DRF e Django Ninja
+- Apaixonado por arquitetura de sistemas e workflows CI/CD eficientes
 
-## 💻 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -36,13 +36,13 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 </div>
 
-## 📈 Projetos em Destaque
+## Projetos em Destaque
 
 - **[PyDoll](https://github.com/thalissonvs/pydoll)**: Biblioteca para automação de navegadores com foco em simular comportamento humano realístico, evitando detecção de bot
 - **Soluções de WebScraping**: Desenvolvimento de crawlers de alta performance e confiabilidade para coleta de dados em escala
 - **Arquitetura de APIs**: Implementação de APIs RESTful e GraphQL com foco em performance e escalabilidade
 
-## 📫 Contatos
+## Contatos
 
 <div>
   <a href="mailto:thalissfernandes99@gmail.com">
@@ -56,7 +56,7 @@
   </a>
 </div>
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <div>
   <a href="https://github.com/thalissonvs">
@@ -74,12 +74,12 @@
 # Hello, I'm Thalison! 👋
 ## Python Developer & Software Engineer
 
-- ✨ **Creator and maintainer of [PyDoll](https://github.com/thalissonvs/pydoll)** - open-source library for realistic browser automation (2.5k+ ⭐)
-- 🔍 WebScraping and automation specialist, focused on improving accuracy and resource optimization
-- 🚀 Back-end developer with solid experience in FastAPI, Django, DRF and Django Ninja
-- 🧠 Passionate about system architecture and efficient CI/CD workflows
+- **Creator and maintainer of [PyDoll](https://github.com/thalissonvs/pydoll)** - open-source library for realistic browser automation (4k+ ⭐)
+- WebScraping and automation specialist, focused on improving accuracy and resource optimization
+- Back-end developer with solid experience in FastAPI, Django, DRF and Django Ninja
+- Passionate about system architecture and efficient CI/CD workflows
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -106,13 +106,13 @@
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
 </div>
 
-## 📈 Featured Projects
+## Featured Projects
 
 - **[PyDoll](https://github.com/thalissonvs/pydoll)**: Browser automation library focused on simulating realistic human behavior to avoid bot detection
 - **WebScraping Solutions**: Development of high-performance and reliable crawlers for large-scale data collection
 - **API Architecture**: Implementation of RESTful and GraphQL APIs focused on performance and scalability
 
-## 📫 Contact
+## Contact
 
 <div>
   <a href="mailto:thalissfernandes99@gmail.com">
@@ -126,7 +126,7 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div>
   <a href="https://github.com/thalissonvs">
