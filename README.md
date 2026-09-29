@@ -19,7 +19,17 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 ### Live
 
 <!-- LIVE:START -->
-_This section fills itself in on the first run of the `Update README` workflow._
+**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,105** stars and **408** forks, latest release **[3.0.0](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.0)** on Sep 29, 2026.
+
+**Recently merged**
+
+- [docs: explain why the User-Agent major must equal the binary, and say…](https://github.com/autoscrape-labs/pydoll/pull/465) in `autoscrape-labs/pydoll`, Sep 29, 2026
+- [fix(playwright): fractional clicks, geolocation accuracy, stale frames, wire headers and console handles](https://github.com/autoscrape-labs/pydoll/pull/464) in `autoscrape-labs/pydoll`, Sep 29, 2026
+- [feat(sync): generated synchronous API for pydoll](https://github.com/autoscrape-labs/pydoll/pull/462) in `autoscrape-labs/pydoll`, Sep 29, 2026
+- [Fix/fingerprint header order and coherence](https://github.com/autoscrape-labs/pydoll/pull/461) in `autoscrape-labs/pydoll`, Sep 16, 2026
+- [Fix/fingerprint worker webgpu and sw refetch](https://github.com/autoscrape-labs/pydoll/pull/460) in `autoscrape-labs/pydoll`, Sep 15, 2026
+
+<sub>Updated 2026-09-29 15:28 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
 <!-- LIVE:END -->
 
 <picture>
