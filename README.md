@@ -6,7 +6,6 @@ Right now I'm a Lead Software Engineer at [Crustdata](https://crustdata.com), wh
 
 ### Pydoll
 
-<a href="https://github.com/autoscrape-labs/pydoll"><img align="right" width="110" src="https://github.com/user-attachments/assets/219f2dbc-37ed-4aea-a289-ba39cdbb335d" alt="Pydoll logo"></a>
 
 I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an async Python library that drives Chromium straight over the DevTools Protocol, with no WebDriver and nothing that gives the automation away. It started as a rewrite of a production crawler that Selenium could no longer keep alive, and reached #1 on GitHub trending and the front page of Hacker News at launch.
 
@@ -14,7 +13,6 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 [![PyPI downloads](https://img.shields.io/pypi/dm/pydoll-python?style=flat-square&label=downloads&color=188038)](https://pypi.org/project/pydoll-python/)
 [![Docs](https://img.shields.io/badge/docs-pydoll.tech-5f6368?style=flat-square)](https://pydoll.tech)
 
-<br clear="right">
 
 ### Live
 
@@ -37,11 +35,6 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thalissonvs/thalissonvs/output/snake.svg" width="100%">
 </picture>
 
-<details>
-<summary><b>More numbers</b></summary>
-<br>
-<img alt="GitHub metrics" src="./github-metrics.svg" width="100%">
-</details>
 
 ### What I work with
 
