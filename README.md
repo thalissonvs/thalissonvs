@@ -1,131 +1,54 @@
+## Hi, I'm Thalison 👋
+
+I build the browser side of web scraping: infrastructure that renders, survives and scales on pages designed to block automation.
+
+Right now I'm a Lead Software Engineer at [Crustdata](https://crustdata.com), where I built and own the browser platform behind our SERP, page fetch and Google Maps APIs. It runs as a fleet of browser workers on Kubernetes and handles around a million requests a day. Before that I worked on fault-tolerant crawling pipelines for enterprise clients at [Zyte](https://www.zyte.com), and before that I co-founded a company that ran scrapers against Instagram, TikTok and Facebook for about a thousand paying customers.
+
+### Pydoll
+
+<a href="https://github.com/autoscrape-labs/pydoll"><img align="right" width="110" src="https://github.com/user-attachments/assets/219f2dbc-37ed-4aea-a289-ba39cdbb335d" alt="Pydoll logo"></a>
+
+I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an async Python library that drives Chromium straight over the DevTools Protocol, with no WebDriver and nothing that gives the automation away. It started as a rewrite of a production crawler that Selenium could no longer keep alive, and reached #1 on GitHub trending and the front page of Hacker News at launch.
+
+[![Stars](https://img.shields.io/github/stars/autoscrape-labs/pydoll?style=flat-square&label=stars&color=1a73e8)](https://github.com/autoscrape-labs/pydoll)
+[![PyPI downloads](https://img.shields.io/pypi/dm/pydoll-python?style=flat-square&label=downloads&color=188038)](https://pypi.org/project/pydoll-python/)
+[![Docs](https://img.shields.io/badge/docs-pydoll.tech-5f6368?style=flat-square)](https://pydoll.tech)
+
+<br clear="right">
+
+### Live
+
+<!-- LIVE:START -->
+_This section fills itself in on the first run of the `Update README` workflow._
+<!-- LIVE:END -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thalissonvs/thalissonvs/output/snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thalissonvs/thalissonvs/output/snake.svg" width="100%">
+</picture>
+
 <details>
-  <summary>:brazil: Português</summary>
-
-# Olá, me chamo Thalison! 👋
-## Desenvolvedor Python & Engenheiro de Software
-
-- **Criador e mantenedor da [PyDoll](https://github.com/thalissonvs/pydoll)** - biblioteca open-source para automação de navegadores de forma realística (4k+ ⭐)
-- Especialista em WebScraping e automação, focado em aumentar assertividade e otimização de recursos
-- Desenvolvedor back-end com sólida experiência em FastAPI, Django, DRF e Django Ninja
-- Apaixonado por arquitetura de sistemas e workflows CI/CD eficientes
-
-## Tecnologias e Ferramentas
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-  <img src="https://img.shields.io/badge/CI/CD-Workflows-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Scrapy-11A617?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-</div>
-
-## Projetos em Destaque
-
-- **[PyDoll](https://github.com/thalissonvs/pydoll)**: Biblioteca para automação de navegadores com foco em simular comportamento humano realístico, evitando detecção de bot
-- **Soluções de WebScraping**: Desenvolvimento de crawlers de alta performance e confiabilidade para coleta de dados em escala
-- **Arquitetura de APIs**: Implementação de APIs RESTful e GraphQL com foco em performance e escalabilidade
-
-## Contatos
-
-<div>
-  <a href="mailto:thalissfernandes99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/thalissonvs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-## Estatísticas GitHub
-
-<div>
-  <a href="https://github.com/thalissonvs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissonvs&layout=compact&langs_count=7&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissonvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-</div>
+<summary><b>More numbers</b></summary>
+<br>
+<img alt="GitHub metrics" src="./github-metrics.svg" width="100%">
 </details>
 
----
+### What I work with
 
-<details open>
-  <summary>:us: English</summary>
+Python (asyncio, FastAPI, Django), the Chrome DevTools Protocol, Kubernetes on EKS with KEDA, Redis, PostgreSQL, Docker, and OpenTelemetry with Grafana and Datadog for seeing what's actually happening in production.
 
-# Hello, I'm Thalison! 👋
-## Python Developer & Software Engineer
+<details>
+<summary><b>Other things I've built</b></summary>
+<br>
 
-- **Creator and maintainer of [PyDoll](https://github.com/thalissonvs/pydoll)** - open-source library for realistic browser automation (4k+ ⭐)
-- WebScraping and automation specialist, focused on improving accuracy and resource optimization
-- Back-end developer with solid experience in FastAPI, Django, DRF and Django Ninja
-- Passionate about system architecture and efficient CI/CD workflows
+**Browser worker platform.** Seven worker types on a single Helm chart, queue-based scheduling with a circuit breaker in front of the workers, a four-level health recovery hierarchy, and autoscaling on queue depth. A Bing SERP service on top of it sustains around 1,000 requests per minute with stable tail latency while browsers restart and proxies rotate underneath.
 
-## Technologies & Tools
+**Document processing pipeline.** Takes multi-gigabyte archives of scanned traffic fines, runs CPU-optimized OCR, uses an LLM to pull out fields from documents with no standard layout, and reconciles everything against the database. Cut the manual work, previously done by freelancers, by more than 80%.
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework"/>
-  <img src="https://img.shields.io/badge/CI/CD-Workflows-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
-  <img src="https://img.shields.io/badge/Scrapy-11A617?style=for-the-badge&logo=scrapy&logoColor=white" alt="Scrapy"/>
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-</div>
+**Signature fraud detection.** A YOLO model trained on a hand-labeled dataset to find and crop signatures on driver's licenses in any format or orientation, followed by an LLM comparison guided by the rules of the manual process. Served through FastAPI and ran in production at close to 100% accuracy.
 
-## Featured Projects
-
-- **[PyDoll](https://github.com/thalissonvs/pydoll)**: Browser automation library focused on simulating realistic human behavior to avoid bot detection
-- **WebScraping Solutions**: Development of high-performance and reliable crawlers for large-scale data collection
-- **API Architecture**: Implementation of RESTful and GraphQL APIs focused on performance and scalability
-
-## Contact
-
-<div>
-  <a href="mailto:thalissfernandes99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/thalissonvs" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
-## GitHub Stats
-
-<div>
-  <a href="https://github.com/thalissonvs">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalissonvs&layout=compact&langs_count=7&theme=dracula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thalissonvs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </a>
-</div>
 </details>
+
+### Get in touch
+
+[thalissfernandes99@gmail.com](mailto:thalissfernandes99@gmail.com). Fala português? Pode mandar mensagem em português mesmo.
