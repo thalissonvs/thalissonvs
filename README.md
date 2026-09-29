@@ -35,10 +35,6 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/thalissonvs/thalissonvs/output/snake.svg" width="100%">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D contribution graph with GitHub stats" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
-</picture>
 
 ### What I work with
 
