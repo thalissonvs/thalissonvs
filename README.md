@@ -27,7 +27,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 - [Fix/fingerprint header order and coherence](https://github.com/autoscrape-labs/pydoll/pull/461) in `autoscrape-labs/pydoll`, Sep 16, 2026
 - [Fix/fingerprint worker webgpu and sw refetch](https://github.com/autoscrape-labs/pydoll/pull/460) in `autoscrape-labs/pydoll`, Sep 15, 2026
 
-<sub>Updated 2026-10-04 04:59 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
+<sub>Updated 2026-10-04 11:59 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
 <!-- LIVE:END -->
 
 <picture>
