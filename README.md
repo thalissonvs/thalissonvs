@@ -17,7 +17,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 ### Live
 
 <!-- LIVE:START -->
-**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,127** stars and **411** forks, latest release **[3.0.0](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.0)** on Sep 29, 2026.
+**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,128** stars and **411** forks, latest release **[3.0.0](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.0)** on Sep 29, 2026.
 
 **Recently merged**
 
@@ -27,7 +27,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 - [Fix/fingerprint header order and coherence](https://github.com/autoscrape-labs/pydoll/pull/461) in `autoscrape-labs/pydoll`, Sep 16, 2026
 - [Fix/fingerprint worker webgpu and sw refetch](https://github.com/autoscrape-labs/pydoll/pull/460) in `autoscrape-labs/pydoll`, Sep 15, 2026
 
-<sub>Updated 2026-10-20 21:23 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
+<sub>Updated 2026-10-21 03:53 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
 <!-- LIVE:END -->
 
 <picture>
