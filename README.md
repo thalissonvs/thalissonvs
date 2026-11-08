@@ -17,7 +17,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 ### Live
 
 <!-- LIVE:START -->
-**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,133** stars and **411** forks, latest release **[3.0.0](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.0)** on Sep 29, 2026.
+**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,134** stars and **411** forks, latest release **[3.0.1](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.1)** on Nov 08, 2026.
 
 **Recently merged**
 
@@ -27,7 +27,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 - [docs: add Singapore Mobile Proxy as sponsor and refresh NodeMaven](https://github.com/autoscrape-labs/pydoll/pull/475) in `autoscrape-labs/pydoll`, Nov 07, 2026
 - [docs: explain why the User-Agent major must equal the binary, and say…](https://github.com/autoscrape-labs/pydoll/pull/465) in `autoscrape-labs/pydoll`, Sep 29, 2026
 
-<sub>Updated 2026-11-08 05:10 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
+<sub>Updated 2026-11-08 12:57 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
 <!-- LIVE:END -->
 
 <picture>
