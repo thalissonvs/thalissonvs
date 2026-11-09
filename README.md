@@ -21,13 +21,13 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 
 **Recently merged**
 
+- [docs(landing): show the live GitHub star count](https://github.com/autoscrape-labs/pydoll/pull/479) in `autoscrape-labs/pydoll`, Nov 08, 2026
 - [Fix browser lifecycle](https://github.com/autoscrape-labs/pydoll/pull/478) in `autoscrape-labs/pydoll`, Nov 08, 2026
 - [Connection Robustness](https://github.com/autoscrape-labs/pydoll/pull/477) in `autoscrape-labs/pydoll`, Nov 08, 2026
 - [build(deps): cap pydantic below 2.14](https://github.com/autoscrape-labs/pydoll/pull/476) in `autoscrape-labs/pydoll`, Nov 07, 2026
 - [docs: add Singapore Mobile Proxy as sponsor and refresh NodeMaven](https://github.com/autoscrape-labs/pydoll/pull/475) in `autoscrape-labs/pydoll`, Nov 07, 2026
-- [docs: explain why the User-Agent major must equal the binary, and say…](https://github.com/autoscrape-labs/pydoll/pull/465) in `autoscrape-labs/pydoll`, Sep 29, 2026
 
-<sub>Updated 2026-11-08 21:50 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
+<sub>Updated 2026-11-09 05:22 UTC by a GitHub Action that reads this data with Pydoll itself.</sub>
 <!-- LIVE:END -->
 
 <picture>
