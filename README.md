@@ -17,7 +17,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 ### Live
 
 <!-- LIVE:START -->
-**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,141** stars and **413** forks, latest release **[3.0.1](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.1)** on Nov 08, 2026.
+**[Pydoll](https://github.com/autoscrape-labs/pydoll)** has **7,143** stars and **413** forks, latest release **[3.0.1](https://github.com/autoscrape-labs/pydoll/releases/tag/3.0.1)** on Nov 08, 2026.
 
 **Recently merged**
 
@@ -27,7 +27,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 - [build(deps): cap pydantic below 2.14](https://github.com/autoscrape-labs/pydoll/pull/476) in `autoscrape-labs/pydoll`, Nov 07, 2026
 - [docs: add Singapore Mobile Proxy as sponsor and refresh NodeMaven](https://github.com/autoscrape-labs/pydoll/pull/475) in `autoscrape-labs/pydoll`, Nov 07, 2026
 
-<sub>Updated 2026-11-13 14:12 UTC by a GitHub Action (Pydoll was taking a day off, so plain urllib did the job).</sub>
+<sub>Updated 2026-11-13 23:23 UTC by a GitHub Action (Pydoll was taking a day off, so plain urllib did the job).</sub>
 <!-- LIVE:END -->
 
 <picture>
