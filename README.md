@@ -27,7 +27,7 @@ I created and maintain [Pydoll](https://github.com/autoscrape-labs/pydoll), an a
 - [build(deps): cap pydantic below 2.14](https://github.com/autoscrape-labs/pydoll/pull/476) in `autoscrape-labs/pydoll`, Nov 07, 2026
 - [docs: add Singapore Mobile Proxy as sponsor and refresh NodeMaven](https://github.com/autoscrape-labs/pydoll/pull/475) in `autoscrape-labs/pydoll`, Nov 07, 2026
 
-<sub>Updated 2026-11-13 23:23 UTC by a GitHub Action (Pydoll was taking a day off, so plain urllib did the job).</sub>
+<sub>Updated 2026-11-14 05:35 UTC by a GitHub Action (Pydoll was taking a day off, so plain urllib did the job).</sub>
 <!-- LIVE:END -->
 
 <picture>
